@@ -3,13 +3,13 @@
 <Document>
 <Style id="LineStyle1">
   <LineStyle>
-  <color>a5c6853d</color>
+  <color>50FFFFFF</color>
   <width>5</width>
   </LineStyle>
 </Style>
 <Style id="LineStyle2">
   <LineStyle>
-  <color>7fc6853d</color>
+  <color>50FFFFFF</color>
   <width>5</width>
   </LineStyle>
 </Style>
